@@ -1,0 +1,39 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family (Microsoft Corporation - WDDM 1.1) (ID=0x2a42)
+    Vendor:   Intel
+    VRAM:     879 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.096 seconds
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.058704 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.443533 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.373135 ms (FindLiveObjects: 0.047757 ms CreateObjectMapping: 0.019192 ms MarkObjects: 0.283422 ms  DeleteObjects: 0.015175 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GameManagerScript.UpdateScoreText () [0x00000] in <filename unknown>:0 
+  at GameManagerScript.StartNewGame () [0x00000] in <filename unknown>:0 
+  at GameManagerScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 12a8 -> priority: 1 
