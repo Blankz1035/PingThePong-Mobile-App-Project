@@ -6,34 +6,27 @@ Direct3D:
     Vendor:   Intel
     VRAM:     879 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.096 seconds
-Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong-Mobile-App-Project\PingThePong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Andy\Desktop\PingThePong\PingThePong-Mobile-App-Project\PingThePong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong-Mobile-App-Project\PingThePong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Andy\Desktop\PingThePong\PingThePong-Mobile-App-Project\PingThePong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong-Mobile-App-Project\PingThePong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Andy\Desktop\PingThePong\PingThePong-Mobile-App-Project\PingThePong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong-Mobile-App-Project\PingThePong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Andy\Desktop\PingThePong\PingThePong-Mobile-App-Project\PingThePong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.558 seconds
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong-Mobile-App-Project\PingThePong_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Andy\Desktop\PingThePong\PingThePong-Mobile-App-Project\PingThePong_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.058704 ms
+UnloadTime: 1.922360 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.443533 ms
+UnloadTime: 11.767147 ms
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 265.
-Total: 0.373135 ms (FindLiveObjects: 0.047757 ms CreateObjectMapping: 0.019192 ms MarkObjects: 0.283422 ms  DeleteObjects: 0.015175 ms)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameManagerScript.UpdateScoreText () [0x00000] in <filename unknown>:0 
-  at GameManagerScript.StartNewGame () [0x00000] in <filename unknown>:0 
-  at GameManagerScript.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
+Total: 0.456153 ms (FindLiveObjects: 0.052667 ms CreateObjectMapping: 0.024102 ms MarkObjects: 0.345462 ms  DeleteObjects: 0.025887 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 12a8 -> priority: 1 
+  Thread -> id: 32b8 -> priority: 1 
